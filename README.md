@@ -11,4 +11,4 @@ An [Alfred](https://www.alfredapp.com) workflow to send links to the messages in
 ## Usage
 
 - Select email in Mail.app
-- Launch Alfred and enter m2t
+- Launch Alfred and enter m2t - optionally include #project/@labels/+users/dates etc. (see https://developer.todoist.com/sync/v8/#quick)
